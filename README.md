@@ -5,4 +5,4 @@ uses pandas, flask framework, folium, HTML, CSS and a library which generates lo
 currently has a strange issue where when user submits their .csv file the website prints "str not callable"
 I'm no python wizard but based on the current state I don't see what could generate the issue.
 
-Yes I know my frontend skills aren't great.
+Yes I know my frontend skills aren't great, don't roast me.
